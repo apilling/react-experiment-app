@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/react-experiment-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/github.io/react-experiment-app/static/js/main.4d47bd02.chunk.js",
+    "main.js.map": "/github.io/react-experiment-app/static/js/main.4d47bd02.chunk.js.map",
+    "runtime-main.js": "/github.io/react-experiment-app/static/js/runtime-main.85636494.js",
+    "runtime-main.js.map": "/github.io/react-experiment-app/static/js/runtime-main.85636494.js.map",
+    "static/js/2.08820eae.chunk.js": "/github.io/react-experiment-app/static/js/2.08820eae.chunk.js",
+    "static/js/2.08820eae.chunk.js.map": "/github.io/react-experiment-app/static/js/2.08820eae.chunk.js.map",
+    "static/js/3.5f31293b.chunk.js": "/github.io/react-experiment-app/static/js/3.5f31293b.chunk.js",
+    "static/js/3.5f31293b.chunk.js.map": "/github.io/react-experiment-app/static/js/3.5f31293b.chunk.js.map",
+    "index.html": "/github.io/react-experiment-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github.io/react-experiment-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.08820eae.chunk.js.LICENSE.txt": "/github.io/react-experiment-app/static/js/2.08820eae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85636494.js",
+    "static/js/2.08820eae.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4d47bd02.chunk.js"
+  ]
+}
