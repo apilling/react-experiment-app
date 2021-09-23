@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/react-experiment-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-experiment-app/static/js/main.4d47bd02.chunk.js",
-    "main.js.map": "/react-experiment-app/static/js/main.4d47bd02.chunk.js.map",
-    "runtime-main.js": "/react-experiment-app/static/js/runtime-main.31c30674.js",
-    "runtime-main.js.map": "/react-experiment-app/static/js/runtime-main.31c30674.js.map",
-    "static/js/2.08820eae.chunk.js": "/react-experiment-app/static/js/2.08820eae.chunk.js",
-    "static/js/2.08820eae.chunk.js.map": "/react-experiment-app/static/js/2.08820eae.chunk.js.map",
-    "static/js/3.5f31293b.chunk.js": "/react-experiment-app/static/js/3.5f31293b.chunk.js",
-    "static/js/3.5f31293b.chunk.js.map": "/react-experiment-app/static/js/3.5f31293b.chunk.js.map",
+    "main.css": "/react-experiment-app/static/css/main.1fabc03d.chunk.css",
+    "main.js": "/react-experiment-app/static/js/main.13da318c.chunk.js",
+    "main.js.map": "/react-experiment-app/static/js/main.13da318c.chunk.js.map",
+    "runtime-main.js": "/react-experiment-app/static/js/runtime-main.fa2ee3b2.js",
+    "runtime-main.js.map": "/react-experiment-app/static/js/runtime-main.fa2ee3b2.js.map",
+    "static/css/2.818011ed.chunk.css": "/react-experiment-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.3f5118d1.chunk.js": "/react-experiment-app/static/js/2.3f5118d1.chunk.js",
+    "static/js/2.3f5118d1.chunk.js.map": "/react-experiment-app/static/js/2.3f5118d1.chunk.js.map",
+    "static/js/3.6173e963.chunk.js": "/react-experiment-app/static/js/3.6173e963.chunk.js",
+    "static/js/3.6173e963.chunk.js.map": "/react-experiment-app/static/js/3.6173e963.chunk.js.map",
     "index.html": "/react-experiment-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-experiment-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.08820eae.chunk.js.LICENSE.txt": "/react-experiment-app/static/js/2.08820eae.chunk.js.LICENSE.txt"
+    "static/css/2.818011ed.chunk.css.map": "/react-experiment-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.1fabc03d.chunk.css.map": "/react-experiment-app/static/css/main.1fabc03d.chunk.css.map",
+    "static/js/2.3f5118d1.chunk.js.LICENSE.txt": "/react-experiment-app/static/js/2.3f5118d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31c30674.js",
-    "static/js/2.08820eae.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4d47bd02.chunk.js"
+    "static/js/runtime-main.fa2ee3b2.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.3f5118d1.chunk.js",
+    "static/css/main.1fabc03d.chunk.css",
+    "static/js/main.13da318c.chunk.js"
   ]
 }
